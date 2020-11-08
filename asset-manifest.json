@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2dc1f924.chunk.css",
+    "main.js": "/static/js/main.e2111d8b.chunk.js",
+    "main.js.map": "/static/js/main.e2111d8b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8bcec1ae.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8bcec1ae.js.map",
+    "static/js/2.5666f6e0.chunk.js": "/static/js/2.5666f6e0.chunk.js",
+    "static/js/2.5666f6e0.chunk.js.map": "/static/js/2.5666f6e0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a5313f7c6023f9704fce939fab7e02b5.js": "/precache-manifest.a5313f7c6023f9704fce939fab7e02b5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2dc1f924.chunk.css.map": "/static/css/main.2dc1f924.chunk.css.map",
+    "static/js/2.5666f6e0.chunk.js.LICENSE.txt": "/static/js/2.5666f6e0.chunk.js.LICENSE.txt",
+    "static/media/cat-solid.svg": "/static/media/cat-solid.c76df2dd.svg",
+    "static/media/cloud-sun-solid.svg": "/static/media/cloud-sun-solid.07aef9a2.svg",
+    "static/media/google-brands.da3a9ed4.svg": "/static/media/google-brands.da3a9ed4.svg",
+    "static/media/junejung-logo.svg": "/static/media/junejung-logo.1fd4395d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bcec1ae.js",
+    "static/js/2.5666f6e0.chunk.js",
+    "static/css/main.2dc1f924.chunk.css",
+    "static/js/main.e2111d8b.chunk.js"
+  ]
+}
